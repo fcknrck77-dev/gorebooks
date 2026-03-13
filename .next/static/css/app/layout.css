@@ -1,0 +1,242 @@
+/*!*****************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[10].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[10].use[3]!./src/app/globals.css ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************/
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,600&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Montserrat:wght@300;400;500;600;700&display=swap');
+
+:root {
+  --bg-deep: #080808;
+  --bg-dark: #0f0f0f;
+  --bg-card: #111111;
+  --surface: #161616;
+  --border: #222222;
+  --accent: #8b0000;
+  --accent-light: #b22222;
+  --accent-gold: #c9a84c;
+  --text-primary: #f5f0e8;
+  --text-secondary: #a09888;
+  --text-muted: #5a5348;
+  --font-display: 'Cormorant Garamond', serif;
+  --font-body: 'EB Garamond', serif;
+  --font-ui: 'Montserrat', sans-serif;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { scroll-behavior: smooth; font-size: 16px; }
+
+body {
+  background-color: var(--bg-deep);
+  color: var(--text-primary);
+  font-family: var(--font-body);
+  font-size: 1.1rem;
+  line-height: 1.7;
+  overflow-x: hidden;
+}
+
+a { color: inherit; text-decoration: none; }
+
+/* ===========================
+   TYPOGRAPHY
+=========================== */
+.display-title {
+  font-family: var(--font-display);
+  font-weight: 300;
+  letter-spacing: 0.02em;
+  line-height: 1.05;
+}
+
+.section-label {
+  font-family: var(--font-ui);
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: var(--accent-gold);
+}
+
+.divider-ornament {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  color: var(--accent-gold);
+  font-size: 0.9rem;
+  margin: 1.5rem 0;
+}
+.divider-ornament::before,
+.divider-ornament::after {
+  content: '';
+  flex: 1 1;
+  height: 1px;
+  background: linear-gradient(to right, transparent, var(--accent-gold), transparent);
+}
+
+/* ===========================
+   LAYOUT
+=========================== */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2.5rem;
+}
+
+section {
+  padding: 7rem 0;
+  position: relative;
+}
+
+/* ===========================
+   SCROLLBAR
+=========================== */
+::-webkit-scrollbar { width: 5px; }
+::-webkit-scrollbar-track { background: var(--bg-deep); }
+::-webkit-scrollbar-thumb { background: var(--accent); border-radius: 3px; }
+
+/* ===========================
+   ANIMATIONS
+=========================== */
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(30px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.fade-up { animation: fadeUp 1.2s cubic-bezier(0.16, 1, 0.3, 1) forwards; }
+.delay-1 { animation-delay: 0.2s; opacity: 0; }
+.delay-2 { animation-delay: 0.45s; opacity: 0; }
+.delay-3 { animation-delay: 0.7s; opacity: 0; }
+
+/* ===========================
+   BUTTONS
+=========================== */
+.btn-primary {
+  display: inline-block;
+  font-family: var(--font-ui);
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  padding: 0.85rem 2.5rem;
+  background: var(--accent);
+  color: var(--text-primary);
+  border: 1px solid var(--accent);
+  transition: background 0.35s, color 0.35s, box-shadow 0.35s;
+  cursor: pointer;
+}
+.btn-primary:hover {
+  background: transparent;
+  color: var(--accent-light);
+  box-shadow: 0 0 25px rgba(139, 0, 0, 0.3);
+}
+
+.btn-ghost {
+  display: inline-block;
+  font-family: var(--font-ui);
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  padding: 0.7rem 1.8rem;
+  background: transparent;
+  color: var(--text-secondary);
+  border: 1px solid var(--border);
+  transition: all 0.3s;
+  cursor: pointer;
+}
+.btn-ghost:hover {
+  border-color: var(--accent-gold);
+  color: var(--accent-gold);
+}
+
+/* ===========================
+   BOOK CATALOG GRID
+=========================== */
+.book-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-gap: 1.5rem 2rem;
+  gap: 1.5rem 2rem;
+}
+
+/* ===========================
+   SAGA BLOCK
+=========================== */
+.saga-header {
+  border-top: 1px solid var(--border);
+  padding-top: 3rem;
+  margin-bottom: 2.5rem;
+  display: flex;
+  align-items: baseline;
+  gap: 1.5rem;
+}
+
+/* ===========================
+   UPCOMING BADGE
+=========================== */
+.badge-soon {
+  font-family: var(--font-ui);
+  font-size: 0.6rem;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  padding: 0.25rem 0.7rem;
+  background: var(--accent);
+  color: white;
+  border-radius: 1px;
+}
+
+/* ===========================
+   POLICY PAGE TYPOGRAPHY
+=========================== */
+main h2 {
+  font-family: var(--font-display);
+  font-size: 1.4rem;
+  font-weight: 500;
+  color: var(--text-primary);
+  margin: 2.5rem 0 0.75rem;
+  border-left: 2px solid var(--accent);
+  padding-left: 0.75rem;
+}
+
+main ul, main ol {
+  padding-left: 1.5rem;
+  margin: 0.75rem 0 1rem;
+}
+
+main li {
+  margin-bottom: 0.4rem;
+}
+
+main p {
+  margin-bottom: 1rem;
+}
+
+main strong {
+  color: var(--text-primary);
+}
+
+main a {
+  color: var(--accent-gold);
+  transition: opacity 0.2s;
+}
+main a:hover { opacity: 0.75; }
+
+/* ===========================
+   CHECKOUT FORM INPUTS
+=========================== */
+input, textarea, select {
+  background: #0a0a0a;
+  border: 1px solid var(--border);
+  color: var(--text-primary);
+  font-family: var(--font-body);
+  font-size: 1rem;
+  transition: border-color 0.3s;
+}
+
+input::placeholder, textarea::placeholder {
+  color: var(--text-muted);
+}
+
+input:focus, textarea:focus {
+  outline: none;
+  border-color: var(--accent-gold);
+}
+
+

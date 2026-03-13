@@ -1,0 +1,137 @@
+[
+  {
+    "id": "brote",
+    "title": "Brote (Hijos del Hielo nº 1)",
+    "description": "Madrid, diciembre de 2025. Un enemigo antiguo ha despertado bajo el asfalto helado y tras los cristales del Hospital La Paz.",
+    "cover": "https://m.media-amazon.com/images/I/71keO2Q5v7L._AC_UL320_.jpg",
+    "series": "Hijos del Hielo",
+    "amazonUrl": "https://www.amazon.es/stores/Jesús-Fernández-Rodríguez/author/B0FKK8DTYG",
+    "formats": [
+      { "type": "Kindle", "price": "0,89" },
+      { "type": "Tapa Blanda", "price": "13,00" },
+      { "type": "Tapa Dura", "price": "18,00" }
+    ]
+  },
+  {
+    "id": "necrosis",
+    "title": "Necrosis (Hijos del Hielo nº 2)",
+    "description": "Una anomalía microscópica despertada del permafrost siberiano se convierte en la sentencia de muerte de la civilización.",
+    "cover": "https://m.media-amazon.com/images/I/81z83XyVvYL._AC_UL320_.jpg",
+    "series": "Hijos del Hielo",
+    "amazonUrl": "https://www.amazon.es/stores/Jesús-Fernández-Rodríguez/author/B0FKK8DTYG",
+    "formats": [
+      { "type": "Kindle", "price": "0,89" },
+      { "type": "Tapa Blanda", "price": "10,40" },
+      { "type": "Tapa Dura", "price": "16,10" }
+    ]
+  },
+  {
+    "id": "metastasis",
+    "title": "Metástasis (Hijos del Hielo nº 3)",
+    "description": "El invierno nuclear ha llegado. El mundo no termina con un estallido, sino con un lento y horrible reescribirse a sí mismo.",
+    "cover": "https://m.media-amazon.com/images/I/81CDIjQwAzL._AC_UL320_.jpg",
+    "series": "Hijos del Hielo",
+    "amazonUrl": "https://www.amazon.es/stores/Jesús-Fernández-Rodríguez/author/B0FKK8DTYG",
+    "formats": [
+      { "type": "Kindle", "price": "1,00" },
+      { "type": "Tapa Blanda", "price": "17,99" },
+      { "type": "Tapa Dura", "price": "24,99" }
+    ]
+  },
+  {
+    "id": "cursed-kitchen",
+    "title": "Cursed Kitchen",
+    "description": "Relatos de horror culinario. El origen de la oscuridad en la alta cocina.",
+    "cover": "https://m.media-amazon.com/images/I/81x6FHYiviL._AC_UL320_.jpg",
+    "series": "Mise en Place",
+    "amazonUrl": "https://www.amazon.es/stores/Jesús-Fernández-Rodríguez/author/B0FKK8DTYG",
+    "formats": [
+      { "type": "Kindle", "price": "0,89" },
+      { "type": "Tapa Blanda", "price": "10,40" },
+      { "type": "Tapa Dura", "price": "16,64" }
+    ]
+  },
+  {
+    "id": "venatio",
+    "title": "Venatio (Mise en Place nº 2)",
+    "description": "La cacería dentro y fuera de los fogones. La oscuridad continúa en la cocina.",
+    "cover": "https://m.media-amazon.com/images/I/718o2TBaFBL._AC_UL320_.jpg",
+    "series": "Mise en Place",
+    "amazonUrl": "https://www.amazon.es/stores/Jesús-Fernández-Rodríguez/author/B0FKK8DTYG",
+    "formats": [
+      { "type": "Kindle", "price": "0,89" },
+      { "type": "Tapa Blanda", "price": "10,40" },
+      { "type": "Tapa Dura", "price": "16,64" }
+    ]
+  },
+  {
+    "id": "genesis",
+    "title": "Génesis (Mise en Place nº 3)",
+    "description": "El cierre de la trilogía gastronómica más oscura.",
+    "cover": "https://m.media-amazon.com/images/I/81CDIjQwAzL._AC_UL320_.jpg",
+    "series": "Mise en Place",
+    "amazonUrl": "https://www.amazon.es/stores/Jesús-Fernández-Rodríguez/author/B0FKK8DTYG",
+    "formats": [
+      { "type": "Kindle", "price": "0,89" },
+      { "type": "Tapa Blanda", "price": "13,50" },
+      { "type": "Tapa Dura", "price": "18,00" }
+    ]
+  },
+  {
+    "id": "cero",
+    "title": "CERO (Azariah nº 1)",
+    "description": "El inicio de la saga Azariah. Un thriller psicológico y oscuro.",
+    "cover": "https://m.media-amazon.com/images/I/81HvcI6eJpL._AC_UL320_.jpg",
+    "series": "Azariah",
+    "amazonUrl": "https://www.amazon.es/stores/Jesús-Fernández-Rodríguez/author/B0FKK8DTYG",
+    "formats": [
+      { "type": "Kindle", "price": "1,00" },
+      { "type": "Tapa Blanda", "price": "10,76" },
+      { "type": "Tapa Dura", "price": "16,14" }
+    ]
+  },
+  {
+    "id": "dyatlov",
+    "title": "La montaña de los muertos",
+    "description": "Basada en el misterio real de 1959. Nueve estudiantes mueren en los Urales en circunstancias desafiantes para la razón.",
+    "cover": "https://m.media-amazon.com/images/I/81keJkstb3L._AC_UL320_.jpg",
+    "amazonUrl": "https://www.amazon.es/stores/Jesús-Fernández-Rodríguez/author/B0FKK8DTYG",
+    "formats": [
+      { "type": "Kindle", "price": "1,50" },
+      { "type": "Tapa Blanda", "price": "18,72" },
+      { "type": "Tapa Dura", "price": "22,00" }
+    ]
+  },
+  {
+    "id": "doxing",
+    "title": "X: DOXING",
+    "description": "Techno-thriller sobre hackers, privacidad y una red clandestina que decide hacer justicia por su cuenta.",
+    "cover": "https://m.media-amazon.com/images/I/913o5F9RkeL._AC_UL320_.jpg",
+    "amazonUrl": "https://www.amazon.es/dp/B0D5WS65S2",
+    "formats": [
+      { "type": "Kindle", "price": "1,00" },
+      { "type": "Tapa Blanda", "price": "14,00" },
+      { "type": "Tapa Dura", "price": "20,00" }
+    ]
+  },
+  {
+    "id": "proximo-1",
+    "title": "Próxima Pesadilla",
+    "description": "El nuevo horror está por llegar. Prepárate para lo inesperado.",
+    "cover": "https://via.placeholder.com/300x450/000000/a00000?text=PROXIMAMENTE",
+    "isUpcoming": true,
+    "amazonUrl": "#",
+    "formats": []
+  },
+  {
+    "id": "pack-trilogia",
+    "title": "Pack Trilogía Hijos del Hielo",
+    "description": "La experiencia completa de la saga en un solo pack con merchandising exclusivo.",
+    "cover": "https://via.placeholder.com/300x450/0a0a0a/a00000?text=PACK+EXCLUSIVO",
+    "isPack": true,
+    "amazonUrl": "#",
+    "formats": [
+      { "type": "Tapa Blanda", "price": "39,99" }
+    ]
+  }
+]

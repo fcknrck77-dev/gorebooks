@@ -1,0 +1,265 @@
+[
+  {
+    "id": "brote",
+    "slug": "brote",
+    "title": "Brote",
+    "subtitle": "Hijos del Hielo nº 1",
+    "description": "Una anomalía microscópica despertada del permafrost siberiano. Un hospital en Madrid. El inicio del fin.",
+    "synopsis": "Madrid, diciembre de 2025. Un enemigo antiguo ha despertado bajo el asfalto helado y tras los cristales del Hospital La Paz. Una infección de origen desconocido que transforma a sus víctimas en algo irreconocible, algo que ya no pertenece al mundo de los vivos tal y como lo conocemos. El doctor Sebastián Moran y la viróloga Clara Valverde tendrán 72 horas para contener lo que ya no puede ser contenido. Una carrera contra el tiempo. Una carrera contra la oscuridad.",
+    "characters": [
+      { "name": "Sebastián Moran", "description": "Médico de urgencias del Hospital La Paz. Racional, frío bajo presión. Lleva años viendo morir a personas sin que su corazón se rompa. Hasta ahora." },
+      { "name": "Clara Valverde", "description": "Viróloga del Centro Nacional de Epidemiología. Obsesiva, brillante e incapaz de dejar las cosas a medias. Conoce el nombre de lo que viene. Y eso la aterra." },
+      { "name": "El Brote", "description": "No tiene nombre. Tiene hambre." }
+    ],
+    "series": "Hijos del Hielo",
+    "seriesNumber": 1,
+    "cover": "https://m.media-amazon.com/images/I/71keO2Q5v7L._AC_UL320_.jpg",
+    "backCover": "",
+    "formats": [
+      { "type": "Kindle", "price": "0,89" },
+      { "type": "Tapa Blanda", "price": "13,00" },
+      { "type": "Tapa Dura", "price": "18,00" }
+    ],
+    "isUpcoming": false,
+    "isPack": false,
+    "featured": true,
+    "published": "2023-01-01"
+  },
+  {
+    "id": "necrosis",
+    "slug": "necrosis",
+    "title": "Necrosis",
+    "subtitle": "Hijos del Hielo nº 2",
+    "description": "La infección se ha extendido más allá del hospital. No hay perímetro que la contenga.",
+    "synopsis": "La cuarentena ha fallado. Lo que empezó en una planta del Hospital La Paz se ha derramado por las calles de Madrid como petróleo negro. El gobierno habla de 'brote localizado'. Mienten. Clara Valverde lo sabe. Sebastián Moran lo ve con sus propios ojos cada vez que sale a la calle. La necrosis no distingue entre militares y civiles, entre niños y ancianos. Solo avanza. Solo consume. La segunda parte de la saga Hijos del Hielo lleva el terror a las calles.",
+    "characters": [
+      { "name": "Sebastián Moran", "description": "Ya no es el mismo. La pérdida lo ha cambiado. Ahora solo le queda sobrevivir." },
+      { "name": "Clara Valverde", "description": "Trabaja desde un búnker improvisado. La solución está en su cabeza. Si el tiempo se lo permite." },
+      { "name": "Coronel Reyes", "description": "Militar al mando de la zona de contención. Cree en las balas. No cree en los científicos." }
+    ],
+    "series": "Hijos del Hielo",
+    "seriesNumber": 2,
+    "cover": "https://m.media-amazon.com/images/I/81z83XyVvYL._AC_UL320_.jpg",
+    "backCover": "",
+    "formats": [
+      { "type": "Kindle", "price": "0,89" },
+      { "type": "Tapa Blanda", "price": "10,40" },
+      { "type": "Tapa Dura", "price": "16,10" }
+    ],
+    "isUpcoming": false,
+    "isPack": false,
+    "featured": false,
+    "published": "2023-06-01"
+  },
+  {
+    "id": "metastasis",
+    "slug": "metastasis",
+    "title": "Metástasis",
+    "subtitle": "Hijos del Hielo nº 3",
+    "description": "El invierno nuclear ha llegado. El mundo no termina con un estallido, sino con un reescribirse a sí mismo.",
+    "synopsis": "El cierre definitivo de la trilogía que comenzó en una sala de urgencias. La humanidad ha perdido. Lo que queda ya no es una civilización: es una espera. Clara y Sebastián se enfrentan al origen de todo, a la verdad que el permafrost llevaba millones de años guardando. La metástasis es imparable. Pero eso no significa que no valga la pena luchar.",
+    "characters": [
+      { "name": "Sebastián Moran", "description": "Un hombre quebrado que encuentra un motivo para seguir en el momento más inesperado." },
+      { "name": "Clara Valverde", "description": "Su nombre quedará escrito en los últimos archivos de la humanidad. De una manera u otra." }
+    ],
+    "series": "Hijos del Hielo",
+    "seriesNumber": 3,
+    "cover": "https://m.media-amazon.com/images/I/81CDIjQwAzL._AC_UL320_.jpg",
+    "backCover": "",
+    "formats": [
+      { "type": "Kindle", "price": "1,00" },
+      { "type": "Tapa Blanda", "price": "17,99" },
+      { "type": "Tapa Dura", "price": "24,99" }
+    ],
+    "isUpcoming": false,
+    "isPack": false,
+    "featured": false,
+    "published": "2024-01-01"
+  },
+  {
+    "id": "cursed-kitchen",
+    "slug": "cursed-kitchen",
+    "title": "Cursed Kitchen",
+    "subtitle": "Mise en Place nº 1",
+    "description": "La alta cocina tiene sus rituales. Algunos van más allá del fuego.",
+    "synopsis": "El restaurante La Garibaldi es una institución. Tres estrellas Michelin, lista de espera de meses, y un chef cuya técnica roza lo sobrenatural. Porque lo sobrenatural es exactamente lo que hay en sus fogones. Cursed Kitchen abre la puerta a un universo donde la gastronomía y el horror se funden en algo perturbadoramente hermoso.",
+    "characters": [
+      { "name": "Mateo", "description": "Chef de La Garibaldi. Perfeccionista hasta el dolor. Lo que sirve en sus platos tiene un precio." },
+      { "name": "Elena", "description": "Crítica gastronómica que acepta una invitación que jamás debería haber aceptado." }
+    ],
+    "series": "Mise en Place",
+    "seriesNumber": 1,
+    "cover": "https://m.media-amazon.com/images/I/81x6FHYiviL._AC_UL320_.jpg",
+    "backCover": "",
+    "formats": [
+      { "type": "Kindle", "price": "0,89" },
+      { "type": "Tapa Blanda", "price": "10,40" },
+      { "type": "Tapa Dura", "price": "16,64" }
+    ],
+    "isUpcoming": false,
+    "isPack": false,
+    "featured": false,
+    "published": "2023-03-01"
+  },
+  {
+    "id": "venatio",
+    "slug": "venatio",
+    "title": "Venatio",
+    "subtitle": "Mise en Place nº 2",
+    "description": "La caza comienza. Dentro y fuera de los fogones.",
+    "synopsis": "Mateo sabe que lo están persiguiendo. Lo que no sabe es que él también está cazando, sin saberlo. Venatio profundiza en el universo de La Garibaldi y lleva al lector a los límites del instinto depredador humano.",
+    "characters": [
+      { "name": "Mateo", "description": "Más oscuro. Más desesperado. Más peligroso." },
+      { "name": "Inspector Carrasco", "description": "Un policía que huele algo mal en cada plato del restaurante. Literalmente." }
+    ],
+    "series": "Mise en Place",
+    "seriesNumber": 2,
+    "cover": "https://m.media-amazon.com/images/I/718o2TBaFBL._AC_UL320_.jpg",
+    "backCover": "",
+    "formats": [
+      { "type": "Kindle", "price": "0,89" },
+      { "type": "Tapa Blanda", "price": "10,40" },
+      { "type": "Tapa Dura", "price": "16,64" }
+    ],
+    "isUpcoming": false,
+    "isPack": false,
+    "featured": false,
+    "published": "2023-08-01"
+  },
+  {
+    "id": "genesis",
+    "slug": "genesis",
+    "title": "Génesis",
+    "subtitle": "Mise en Place nº 3",
+    "description": "El origen de todo. El cierre de la trilogía más oscura de la alta cocina.",
+    "synopsis": "¿Cómo nació La Garibaldi? ¿De dónde viene el don de Mateo? Génesis responde las preguntas que los lectores llevan dos tomos haciéndose, y lo hace de la única manera posible: con sangre, fuego y una última cena que nadie olvidará.",
+    "characters": [
+      { "name": "Mateo joven", "description": "Antes del restaurante. Antes del don. Solo un chico con hambre de algo que no sabe nombrar." }
+    ],
+    "series": "Mise en Place",
+    "seriesNumber": 3,
+    "cover": "https://m.media-amazon.com/images/I/81CDIjQwAzL._AC_UL320_.jpg",
+    "backCover": "",
+    "formats": [
+      { "type": "Kindle", "price": "0,89" },
+      { "type": "Tapa Blanda", "price": "13,50" },
+      { "type": "Tapa Dura", "price": "18,00" }
+    ],
+    "isUpcoming": false,
+    "isPack": false,
+    "featured": false,
+    "published": "2024-03-01"
+  },
+  {
+    "id": "cero",
+    "slug": "cero",
+    "title": "CERO",
+    "subtitle": "Azariah nº 1",
+    "description": "El inicio de la saga Azariah. Un thriller psicológico que rompe con todo.",
+    "synopsis": "Azariah no tiene nombre propio. Tiene un número. CERO es el origen de una historia que desafía los límites del thriller y la ciencia ficción oscura. ¿Qué eres cuando te han borrado todo lo que eras?",
+    "characters": [
+      { "name": "Azariah", "description": "Sin pasado. Sin nombre real. Solo la misión." }
+    ],
+    "series": "Azariah",
+    "seriesNumber": 1,
+    "cover": "https://m.media-amazon.com/images/I/81HvcI6eJpL._AC_UL320_.jpg",
+    "backCover": "",
+    "formats": [
+      { "type": "Kindle", "price": "1,00" },
+      { "type": "Tapa Blanda", "price": "10,76" },
+      { "type": "Tapa Dura", "price": "16,14" }
+    ],
+    "isUpcoming": false,
+    "isPack": false,
+    "featured": false,
+    "published": "2024-02-01"
+  },
+  {
+    "id": "dyatlov",
+    "slug": "la-montana-de-los-muertos",
+    "title": "La montaña de los muertos",
+    "subtitle": "El paso de Dyatlov",
+    "description": "Nueve estudiantes. Una montaña en los Urales. 1959. Un misterio que la razón no puede explicar.",
+    "synopsis": "En febrero de 1959, nueve alpinistas experimentados murieron en extrañas circunstancias en los Urales soviéticos. Sus tiendas fueron rasgadas desde dentro. Algunos tenían fracturas internas sin heridas externas visibles. Otros huían descalzos hacia el frío. Las causas oficiales nunca convencieron a nadie. Esta es la versión que la historia no quiso contar.",
+    "characters": [
+      { "name": "Igor Dyatlov", "description": "El líder del grupo. El primero en saber que algo iba mal. El último en admitirlo." },
+      { "name": "Zina Kolmogorova", "description": "La más valiente. Y la más cercana a la verdad." }
+    ],
+    "series": null,
+    "seriesNumber": null,
+    "cover": "https://m.media-amazon.com/images/I/81keJkstb3L._AC_UL320_.jpg",
+    "backCover": "",
+    "formats": [
+      { "type": "Kindle", "price": "1,50" },
+      { "type": "Tapa Blanda", "price": "18,72" },
+      { "type": "Tapa Dura", "price": "22,00" }
+    ],
+    "isUpcoming": false,
+    "isPack": false,
+    "featured": false,
+    "published": "2023-11-01"
+  },
+  {
+    "id": "doxing",
+    "slug": "x-doxing",
+    "title": "X: DOXING",
+    "subtitle": "La venganza de los inocentes",
+    "description": "Cuando el anonimato se convierte en arma. Techno-thriller sobre hackers, privacidad y justicia al margen de la ley.",
+    "synopsis": "Una red clandestina de hackers decide hacer justicia por su cuenta. Sus objetivos: pederastas, corruptos y depredadores que el sistema ha dejado escapar. Su método: el doxing. Exponer. Destruir. Pero la línea entre justicia y venganza es más delgada de lo que creen.",
+    "characters": [
+      { "name": "X", "description": "El cerebro. Nadie conoce su identidad real. Ni siquiera sus propios aliados." },
+      { "name": "Mirta", "description": "La más joven del grupo. La que tiene más que perder y más que vengar." }
+    ],
+    "series": null,
+    "seriesNumber": null,
+    "cover": "https://m.media-amazon.com/images/I/913o5F9RkeL._AC_UL320_.jpg",
+    "backCover": "",
+    "formats": [
+      { "type": "Kindle", "price": "1,00" },
+      { "type": "Tapa Blanda", "price": "14,00" },
+      { "type": "Tapa Dura", "price": "20,00" }
+    ],
+    "isUpcoming": false,
+    "isPack": false,
+    "featured": false,
+    "published": "2024-04-01"
+  },
+  {
+    "id": "proximo-1",
+    "slug": "proxima-pesadilla",
+    "title": "Próxima Pesadilla",
+    "subtitle": "Próximamente",
+    "description": "El nuevo horror está por llegar. Prepárate para lo inesperado.",
+    "synopsis": "Próximamente. Suscríbete para recibir una notificación cuando esté disponible.",
+    "characters": [],
+    "series": null,
+    "seriesNumber": null,
+    "cover": "",
+    "backCover": "",
+    "formats": [],
+    "isUpcoming": true,
+    "isPack": false,
+    "featured": false,
+    "published": null
+  },
+  {
+    "id": "pack-trilogia",
+    "slug": "pack-trilogia-hijos-del-hielo",
+    "title": "Pack Trilogía Hijos del Hielo",
+    "subtitle": "Los tres libros de la saga",
+    "description": "La experiencia completa de la saga Hijos del Hielo en un solo pack.",
+    "synopsis": "Brote + Necrosis + Metástasis. Los tres volúmenes de la saga de horror pandémico más aclamada del autor, en una edición especial de coleccionista.",
+    "characters": [],
+    "series": null,
+    "seriesNumber": null,
+    "cover": "",
+    "backCover": "",
+    "formats": [
+      { "type": "Tapa Blanda", "price": "39,99" }
+    ],
+    "isUpcoming": false,
+    "isPack": true,
+    "featured": false,
+    "published": "2024-06-01"
+  }
+]
