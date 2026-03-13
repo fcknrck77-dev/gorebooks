@@ -23,7 +23,14 @@ export async function POST(req: NextRequest) {
     // Create a unique filename
     const ext = path.extname(file.name);
     const filename = `${Date.now()}-${Math.random().toString(36).substring(2, 10)}${ext}`;
-    const uploadPath = path.join(process.cwd(), 'public/uploads', filename);
+    const uploadDir = path.join(process.cwd(), 'public/uploads');
+    
+    // Ensure directory exists
+    if (!fs.existsSync(uploadDir)) {
+      fs.mkdirSync(uploadDir, { recursive: true });
+    }
+    
+    const uploadPath = path.join(uploadDir, filename);
 
     fs.writeFileSync(uploadPath, buffer);
 

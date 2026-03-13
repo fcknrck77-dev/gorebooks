@@ -2,7 +2,7 @@ import Database from 'better-sqlite3';
 import path from 'path';
 import fs from 'fs';
 
-const DB_PATH = path.join(process.cwd(), 'gorebooks.db');
+const DB_PATH = process.env.DB_PATH || path.join(process.cwd(), 'gorebooks.db');
 
 // Ensure database directory exists (if it were in a subfolder)
 // In this case it's in the root.
